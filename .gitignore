@@ -7,3 +7,4 @@ debian/ufo2otf.postinst.debhelper
 debian/ufo2otf.prerm.debhelper
 debian/ufo2otf.substvars
 debian/files
+.pc/

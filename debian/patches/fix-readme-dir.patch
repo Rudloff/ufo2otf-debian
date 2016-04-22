@@ -1,0 +1,13 @@
+Index: ufo2otf-debian/setup.py
+===================================================================
+--- ufo2otf-debian.orig/setup.py	2016-04-22 16:34:09.304697243 +0200
++++ ufo2otf-debian/setup.py	2016-04-22 16:34:14.496630454 +0200
+@@ -20,7 +20,7 @@
+     url = "http://packages.python.org/an_example_pypi_project",
+     packages=['ufo2otf'],
+     scripts=['bin/ufo2otf'],
+-    data_files=[('', ['README.rst'])],
++    data_files=[('share/doc/ufo2otf', ['README.rst'])],
+     long_description=read('README.rst'),
+     classifiers=[
+         "Environment :: Console",
