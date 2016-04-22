@@ -1,9 +1,9 @@
 .pybuild/
 ufo2otf.egg-info/
 build/
-debian/python-ufo2otf/
-debian/python-ufo2otf.debhelper.log
-debian/python-ufo2otf.postinst.debhelper
-debian/python-ufo2otf.prerm.debhelper
-debian/python-ufo2otf.substvars
+debian/ufo2otf/
+debian/ufo2otf.debhelper.log
+debian/ufo2otf.postinst.debhelper
+debian/ufo2otf.prerm.debhelper
+debian/ufo2otf.substvars
 debian/files

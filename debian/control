@@ -1,13 +1,14 @@
 Source: ufo2otf
 Maintainer: Pierre Rudloff <contact@rudloff.pro>
-Section: python
+Section: utils
 Priority: optional
 Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 9), dh-python
-Standards-Version: 3.9.6
+Standards-Version: 3.9.7
 Vcs-Browser: https://github.com/Rudloff/ufo2otf-debian
 Vcs-Git: https://github.com/Rudloff/ufo2otf-debian.git
+Homepage: https://github.com/fonts/ufo2otf
 
-Package: python-ufo2otf
+Package: ufo2otf
 Architecture: all
 Depends: ${misc:Depends}, ${python:Depends}
 Description: Take UFO font sources and generate OTF’s and webfonts
