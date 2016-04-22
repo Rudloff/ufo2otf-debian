@@ -1,0 +1,15 @@
+Source: ufo2otf
+Maintainer: Pierre Rudloff <contact@rudloff.pro>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 9), dh-python
+Standards-Version: 3.9.6
+Vcs-Browser: https://github.com/Rudloff/ufo2otf-debian
+Vcs-Git: https://github.com/Rudloff/ufo2otf-debian.git
+
+Package: python-ufo2otf
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Take UFO font sources and generate OTF’s and webfonts
+ Ufo2otf is a command line utility that takes UFO font sources
+ and generates OTF’s and webfonts.
