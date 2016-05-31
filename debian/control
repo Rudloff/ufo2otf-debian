@@ -3,7 +3,7 @@ Maintainer: Pierre Rudloff <contact@rudloff.pro>
 Section: python
 Priority: optional
 Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 9), dh-python
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Vcs-Browser: https://github.com/Rudloff/ufo2otf-debian
 Vcs-Git: https://github.com/Rudloff/ufo2otf-debian.git
 
