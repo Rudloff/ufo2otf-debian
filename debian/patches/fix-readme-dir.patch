@@ -1,4 +1,6 @@
-Put README.rst in the correct directory
+From: Pierre Rudloff <contact@rudloff.pro>
+Subject: Put README.rst in the correct directory
+Forwarded: no
 Index: ufo2otf-debian/setup.py
 ===================================================================
 --- ufo2otf-debian.orig/setup.py	2016-04-22 16:34:09.304697243 +0200
